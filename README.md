@@ -14,7 +14,7 @@
 
 - HTML5
 - CSS3
-- JavaScript *(optional, if interactive features are added)*
+- JavaScript and TypeScript *(optional, if interactive features are added)*
 - Bootstrap or React *(optional for responsive design)*
 
 ## 🚀 Getting Started
